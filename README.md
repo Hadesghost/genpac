@@ -1,5 +1,7 @@
 # GenPAC
 
+Try to modify it to be available with python3.
+
 [![pypi-version]][pypi] [![pypi-license]][pypi]
 
 基于gfwlist的代理自动配置(Proxy Auto-config)文件生成工具，支持自定义规则。
